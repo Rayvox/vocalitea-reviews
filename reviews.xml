@@ -5,43 +5,43 @@
     <link>https://www.vocalitea.co.uk</link>
     <description>All reviews for Vocalitea.</description>
     <item>
-      <judgeme_id>518728225</judgeme_id>
       <title>Vocalitea</title>
-      <body>Great service and the tea is amazing.</body>
+      <description>Great service and the tea is amazing.</description>
+      <pubDate>2024-01-21T06:49:11.000Z</pubDate>
+      <judgemeId>518728225</judgemeId>
       <rating>5</rating>
-      <date>2024-01-21T06:49:11.000Z</date>
       <name>Kerrie Green</name>
     </item>
     <item>
-      <judgeme_id>499800581</judgeme_id>
       <title>The tea to keep us singers going!</title>
-      <body>I love my tea and really struggle with herbal teas due to some tasting horrible! This is perfect and tastes amazing! And really gets to work right away. I’m always happy with all the products from Rayvox can’t recommend to any singer enough! Thanks for keeping us going!</body>
+      <description>I love my tea and really struggle with herbal teas due to some tasting horrible! This is perfect and tastes amazing! And really gets to work right away. I’m always happy with all the products from Rayvox can’t recommend to any singer enough! Thanks for keeping us going!</description>
+      <pubDate>2023-12-19T16:45:49.000Z</pubDate>
+      <judgemeId>499800581</judgemeId>
       <rating>5</rating>
-      <date>2023-12-19T16:45:49.000Z</date>
       <name>Jenny Oag</name>
     </item>
     <item>
-      <judgeme_id>502293973</judgeme_id>
       <title>Beautiful soothing tea</title>
-      <body>I love this tea! It’s delicious and hydrating .</body>
+      <description>I love this tea! It’s delicious and hydrating .</description>
+      <pubDate>2023-12-24T08:24:12.000Z</pubDate>
+      <judgemeId>502293973</judgemeId>
       <rating>5</rating>
-      <date>2023-12-24T08:24:12.000Z</date>
       <name>Mina</name>
     </item>
     <item>
-      <judgeme_id>521118654</judgeme_id>
       <title>Soothing and delicious</title>
-      <body>This clever blend of traditional herbs with added caramel and apple flavours is delicious to drink and really does seem to have a soothing and beneficial effect when suffering from a cold. Mucus seems to be thinner, sore throat soothed and symptoms eased.</body>
+      <description>This clever blend of traditional herbs with added caramel and apple flavours is delicious to drink and really does seem to have a soothing and beneficial effect when suffering from a cold. Mucus seems to be thinner, sore throat soothed and symptoms eased.</description>
+      <pubDate>2024-01-25T22:58:40.000Z</pubDate>
+      <judgemeId>521118654</judgemeId>
       <rating>5</rating>
-      <date>2024-01-25T22:58:40.000Z</date>
       <name>Helen Austwick</name>
     </item>
     <item>
-      <judgeme_id>499636043</judgeme_id>
       <title>Vocalitea - Caramel Apple &amp; Honey</title>
-      <body>Vocalitea - Caramel Apple &amp; Honey</body>
+      <description>Vocalitea - Caramel Apple &amp; Honey</description>
+      <pubDate>2023-12-19T10:07:58.000Z</pubDate>
+      <judgemeId>499636043</judgemeId>
       <rating>5</rating>
-      <date>2023-12-19T10:07:58.000Z</date>
       <name>Claire McCartney</name>
     </item>
   </channel>
