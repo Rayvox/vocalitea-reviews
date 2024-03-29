@@ -1,48 +1,50 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:custom="http://your.custom.namespace.com" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vocalitea Reviews</title>
     <link>https://www.vocalitea.co.uk</link>
     <description>All reviews for Vocalitea.</description>
+    <atom:link href="https://rayvox.github.io/vocalitea-reviews/reviews.xml" rel="self" type="application/rss+xml"/>
+
     <item>
       <title>Vocalitea</title>
       <description>Great service and the tea is amazing.</description>
-      <pubDate>2024-01-21T06:49:11.000Z</pubDate>
-      <judgemeId>518728225</judgemeId>
-      <rating>5</rating>
-      <name>Kerrie Green</name>
+      <pubDate>Sun, 21 Jan 2024 06:49:11 +0000</pubDate>
+      <guid>https://www.vocalitea.co.uk/518728225</guid>
+      <custom:rating>5</custom:rating>
+      <custom:name>Kerrie Green</custom:name>
     </item>
     <item>
       <title>The tea to keep us singers going!</title>
       <description>I love my tea and really struggle with herbal teas due to some tasting horrible! This is perfect and tastes amazing! And really gets to work right away. I’m always happy with all the products from Rayvox can’t recommend to any singer enough! Thanks for keeping us going!</description>
-      <pubDate>2023-12-19T16:45:49.000Z</pubDate>
-      <judgemeId>499800581</judgemeId>
-      <rating>5</rating>
-      <name>Jenny Oag</name>
+      <pubDate>Tue, 19 Dec 2023 16:45:49 +0000</pubDate>
+      <guid>https://www.vocalitea.co.uk/499800581</guid>
+      <custom:rating>5</custom:rating>
+      <custom:name>Jenny Oag</custom:name>
     </item>
     <item>
       <title>Beautiful soothing tea</title>
       <description>I love this tea! It’s delicious and hydrating .</description>
-      <pubDate>2023-12-24T08:24:12.000Z</pubDate>
-      <judgemeId>502293973</judgemeId>
-      <rating>5</rating>
-      <name>Mina</name>
+      <pubDate>Sun, 24 Dec 2023 08:24:12 +0000</pubDate>
+      <guid>https://www.vocalitea.co.uk/502293973</guid>
+      <custom:rating>5</custom:rating>
+      <custom:name>Mina</custom:name>
     </item>
     <item>
       <title>Soothing and delicious</title>
       <description>This clever blend of traditional herbs with added caramel and apple flavours is delicious to drink and really does seem to have a soothing and beneficial effect when suffering from a cold. Mucus seems to be thinner, sore throat soothed and symptoms eased.</description>
-      <pubDate>2024-01-25T22:58:40.000Z</pubDate>
-      <judgemeId>521118654</judgemeId>
-      <rating>5</rating>
-      <name>Helen Austwick</name>
+      <pubDate>Thu, 25 Jan 2024 22:58:40 +0000</pubDate>
+      <guid>https://www.vocalitea.co.uk/521118654</guid>
+      <custom:rating>5</custom:rating>
+      <custom:name>Helen Austwick</custom:name>
     </item>
     <item>
       <title>Vocalitea - Caramel Apple &amp; Honey</title>
       <description>Vocalitea - Caramel Apple &amp; Honey</description>
-      <pubDate>2023-12-19T10:07:58.000Z</pubDate>
-      <judgemeId>499636043</judgemeId>
-      <rating>5</rating>
-      <name>Claire McCartney</name>
+      <pubDate>Tue, 19 Dec 2023 10:07:58 +0000</pubDate>
+      <guid>https://www.vocalitea.co.uk/499636043</guid>
+      <custom:rating>5</custom:rating>
+      <custom:name>Claire McCartney</custom:name>
     </item>
   </channel>
 </rss>
